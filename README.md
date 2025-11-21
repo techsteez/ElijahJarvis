@@ -8,7 +8,7 @@
   - **Core Technology:** **Python**,**Boto3**,**APIs**,**AWS CLI**
   - [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])
 - <b>ETL Workflow Builder</b>
- <b> - **Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.</b>
+ <b>**Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.</b>
   - **Skills Demonstrated:** Physical **Network Card Replacement**, driver troubleshooting, IP configuration, and using command-line tools (ipconfig, ping, tracert).
   - [Link to Network Troubleshooting Guide/Scripts Repo]([ADD REPO LINK HERE])
 
