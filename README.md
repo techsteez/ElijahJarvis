@@ -14,7 +14,7 @@
 
 ---
 
-<h2>💻 2. Automation & System Management Solutions</h2>
+<h2>💻 2. IT Operations & Debugging (Logging, Monitoring)</h2>
 <p>Projects focused on building scalable scripts and implementing systems to reduce recurring issues and improve efficiency.</p>
 
 - <b>Automated Troubleshooting Utility (PowerShell/Python)</b>
