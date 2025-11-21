@@ -9,8 +9,8 @@
   <br> [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])</br>
   
 - <ins>ETL Workflow Builder</ins>
-<br>**Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.</br>
- **Skills Demonstrated:** Physical **Network Card Replacement**, driver troubleshooting, IP configuration, and using command-line tools (ipconfig, ping, tracert).
+<br>**Goal:** Designed and deployed a robust, multi-stage Python script for data transfer, focusing specifically on error handling and logging to ensure script reliability and easy diagnosis upon failure.</br>
+ **Core Technology:** **Python**, **ETL Concepts**, **Script Debugging**
   <br>[Link to Network Troubleshooting Guide/Scripts Repo]([ADD REPO LINK HERE])</br>
 
 ---
