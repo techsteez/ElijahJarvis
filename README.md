@@ -5,7 +5,7 @@
 
 - <b>AWS Service Health Monitor</b>
   - **Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.
-  - **Skills Demonstrated:** **Python**,**Boto3**,**APIs**,**AWS CLI**
+  - **Core Technology:** **Python**,**Boto3**,**APIs**,**AWS CLI**
   - [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])
 - <b>Advanced Network Troubleshooting & Configuration</b>
   - **Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.
