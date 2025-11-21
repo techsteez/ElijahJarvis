@@ -29,6 +29,21 @@
 
 ---
 
+<h2>💻 2. IT Operations & Debugging (Logging, Monitoring)</h2>
+<p>Projects focused on building scalable scripts and implementing systems to reduce recurring issues and improve efficiency.</p>
+
+- <b>Automated Troubleshooting Utility (PowerShell/Python)</b>
+  - **Goal:** Scripted utility to automate repetitive Level 1/2 support tasks (e.g., clearing caches, restarting services, log collection).
+  - [Link to Automated Troubleshooting Script Repo]([ADD REPO LINK HERE])
+- <b>AWS Service Health Monitor (Python/Boto3)</b>
+  - **Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.
+  - [Link to Data Analysis Repo (e.g., Ticket Data Reporter)]([ADD REPO LINK HERE])
+- <b>Internal Knowledge Base Prototype (HTML/JS/Static Site)</b>
+  - **Goal:** Demonstrated commitment to improving Customer Experience (CX) through self-service and knowledge management.
+  - [Link to Knowledge Base Prototype Repo]([ADD REPO LINK HERE])
+
+  ---
+
 <h2>🌱 Learning & Development Focus</h2>
 
 - <b>Current Learning Path:</b> Pluralsight Labs focusing on AWS/Azure Fundamentals and IT Service Management (ITSM).
