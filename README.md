@@ -3,14 +3,15 @@
 <h2>🛠️ 1. Technical Automation & Scripting (Python, APIs)</h2>
 <p>Projects focused on leveraging code to interact with systems and automate routine operational tasks.</p>
 
-- <b>AWS Service Health Monitor</b>
-  - **Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.
-  - **Core Technology:** **Python**,**Boto3**,**APIs**,**AWS CLI**
-  - [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])
-- <b>ETL Workflow Builder</b>
- <b>**Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.</b>
-  - **Skills Demonstrated:** Physical **Network Card Replacement**, driver troubleshooting, IP configuration, and using command-line tools (ipconfig, ping, tracert).
-  - [Link to Network Troubleshooting Guide/Scripts Repo]([ADD REPO LINK HERE])
+- <ins>AWS Service Health Monitor</ins>
+ <br>**Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.</br>
+   **Core Technology:** **Python**,**Boto3**,**APIs**,**AWS CLI**
+  <br> [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])</br>
+  
+- <ins>ETL Workflow Builder</ins>
+<br>**Goal:** Demonstrated ability to diagnose, isolate, and resolve layer 1-3 network issues.</br>
+ **Skills Demonstrated:** Physical **Network Card Replacement**, driver troubleshooting, IP configuration, and using command-line tools (ipconfig, ping, tracert).
+  <br>[Link to Network Troubleshooting Guide/Scripts Repo]([ADD REPO LINK HERE])</br>
 
 ---
 
