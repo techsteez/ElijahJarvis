@@ -20,7 +20,7 @@
 - <b>Automated Troubleshooting Utility (PowerShell/Python)</b>
   - **Goal:** Scripted utility to automate repetitive Level 1/2 support tasks (e.g., clearing caches, restarting services, log collection).
   - [Link to Automated Troubleshooting Script Repo]([ADD REPO LINK HERE])
-- <b>Help Desk Ticket Analysis & Reporting (Python/Pandas)</b>
+- <b>AWS Service Health Monitor (Python/Boto3)</b>
   - **Goal:** Used data analysis to identify and visualize top recurring support issues to inform strategic training and system changes.
   - [Link to Data Analysis Repo (e.g., Ticket Data Reporter)]([ADD REPO LINK HERE])
 - <b>Internal Knowledge Base Prototype (HTML/JS/Static Site)</b>
