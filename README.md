@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elijah Jarvis! <br/><a href="[YOUR GITHUB PROFILE LINK]">IT & Systems Analyst</a>, <a href="https://www.linkedin.com/in/elijah-jarvis">Technical Support Specialist</a>, <a href="[YOUR PERSONAL BLOG/WEBSITE LINK]">Customer Success Focus</a></h1>
 
-<h2>🛠️ 1. Hands-On Hardware & Networking Projects</h2>
+<h2>🛠️ 1. Technical Automation & Scripting (Python, APIs)</h2>
 <p>Showcasing practical, physical troubleshooting, and component replacement skills essential for desk-side and field support.</p>
 
 - <b>Laptop Hardware Diagnostics & Repair</b>
