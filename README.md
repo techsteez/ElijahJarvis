@@ -3,12 +3,12 @@
 <h2>🛠️ 1. Technical Automation & Scripting (Python, APIs)</h2>
 <p>Projects focused on leveraging code to interact with systems and automate routine operational tasks.</p>
 
-- <ins>AWS Service Health Monitor</ins>
+- <b><ins>AWS Service Health Monitor</ins></b>
  <br>**Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.</br>
    **Core Technology:** **Python**,**Boto3**,**APIs**,**AWS CLI**
   <br> [Link to Hardware Repair Documentation/Photos Repo]([ADD REPO LINK HERE])</br>
   
-- <ins>ETL Workflow Builder</ins>
+- <b><ins>ETL Workflow Builder</ins></b>
 <br>**Goal:** Designed and deployed a robust, multi-stage Python script for data transfer, focusing specifically on error handling and logging to ensure script reliability and easy diagnosis upon failure.</br>
  **Core Technology:** **Python**, **ETL Concepts**, **Script Debugging**
   <br>[Link to Network Troubleshooting Guide/Scripts Repo]([ADD REPO LINK HERE])</br>
@@ -18,8 +18,8 @@
 <h2>💻 2. IT Operations & Debugging (Logging, Monitoring)</h2>
 <p>Projects focused on building scalable scripts and implementing systems to reduce recurring issues and improve efficiency.</p>
 
-- <b>Automated Troubleshooting Utility (PowerShell/Python)</b>
-  - **Goal:** Scripted utility to automate repetitive Level 1/2 support tasks (e.g., clearing caches, restarting services, log collection).
+<b><ins>System Log & Debugging Practice</ins></b>
+  <br>**Goal:** Scripted utility to automate repetitive Level 1/2 support tasks (e.g., clearing caches, restarting services, log collection).</br>
   - [Link to Automated Troubleshooting Script Repo]([ADD REPO LINK HERE])
 - <b>AWS Service Health Monitor (Python/Boto3)</b>
   - **Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.
