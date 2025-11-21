@@ -21,7 +21,7 @@
   - **Goal:** Scripted utility to automate repetitive Level 1/2 support tasks (e.g., clearing caches, restarting services, log collection).
   - [Link to Automated Troubleshooting Script Repo]([ADD REPO LINK HERE])
 - <b>AWS Service Health Monitor (Python/Boto3)</b>
-  - **Goal:** Used data analysis to identify and visualize top recurring support issues to inform strategic training and system changes.
+  - **Goal:** Foundational project utilizing Python (Boto3) to make direct API calls to AWS. Demonstrates cloud literacy and the ability to script operational diagnostics and monitor service health for rapid troubleshooting.
   - [Link to Data Analysis Repo (e.g., Ticket Data Reporter)]([ADD REPO LINK HERE])
 - <b>Internal Knowledge Base Prototype (HTML/JS/Static Site)</b>
   - **Goal:** Demonstrated commitment to improving Customer Experience (CX) through self-service and knowledge management.
