@@ -44,5 +44,4 @@
 [twitter]: [ADD YOUR TWITTER URL]
 [youtube]: [ADD YOUR YOUTUBE URL]
 [instagram]: [ADD YOUR INSTAGRAM URL]
-
 [linkedin]: https://www.linkedin.com/in/elijah-jarvis
