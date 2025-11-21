@@ -29,7 +29,7 @@
 
 ---
 
-<h2>💻 2. IT Operations & Debugging (Logging, Monitoring)</h2>
+<h2>💻 3. Support Analysis & Process Improvement (Data Cleaning, AI)</h2>
 <p>Projects focused on building scalable scripts and implementing systems to reduce recurring issues and improve efficiency.</p>
 
 - <b>Automated Troubleshooting Utility (PowerShell/Python)</b>
